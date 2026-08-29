@@ -1,2 +1,3 @@
 # Huettengemeinde.github.io
-Website der Hüttengemeinde
+
+Dieses Repository enthält die Webseite für die Hüttengemeinde im Murgtal, erreichbar unter [huettengemeinde.de](https://huettengemeinde.de).
