@@ -201,6 +201,7 @@ h1 {
 
 .festival-brand {
     align-self: end;
+    min-width: 0;
     max-width: 520px;
     padding: 0 0 14px 4px;
     text-shadow: 0 3px 22px rgba(0, 0, 0, .55);
@@ -211,9 +212,11 @@ h1 {
 }
 
 .festival-brand h2 {
-    font-size: clamp(3.1rem, 6vw, 5.6rem);
+    font-size: clamp(3.1rem, 6vw, 4.8rem);
     line-height: .92;
     letter-spacing: -.055em;
+    overflow-wrap: break-word;
+    hyphens: auto;
     margin: 12px 0 15px;
 }
 
@@ -235,6 +238,10 @@ h1 {
     gap: 17px;
     padding: 20px 0;
     border-bottom: 1px solid rgba(255, 255, 255, .19);
+}
+
+.festival-date > div {
+    min-width: 0;
 }
 
 .festival-date:first-child {
@@ -259,6 +266,8 @@ h1 {
     margin: 0 0 5px;
     color: #fff;
     font-size: 1.3rem;
+    overflow-wrap: break-word;
+    hyphens: auto;
 }
 
 .festival-date p {
@@ -323,6 +332,10 @@ h1 {
     .festival-inner {
         padding: 30px 25px;
         min-height: 720px;
+    }
+
+    .festival-brand h2 {
+        font-size: clamp(1.9rem, 9vw, 2.6rem);
     }
 
     .festival-date {
