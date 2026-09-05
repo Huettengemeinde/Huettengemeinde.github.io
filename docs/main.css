@@ -305,7 +305,7 @@ h1 {
 
     .festival-inner {
         grid-template-columns: 1fr;
-        min-height: 760px;
+        min-height: 680px;
         gap: 20px;
         align-content: end;
     }
@@ -322,7 +322,7 @@ h1 {
 @media(max-width:560px) {
     .festival-inner {
         padding: 30px 25px;
-        min-height: 790px;
+        min-height: 720px;
     }
 
     .festival-date {
