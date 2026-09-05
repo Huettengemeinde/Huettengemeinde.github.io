@@ -620,4 +620,8 @@ footer {
         min-height: auto;
         padding-top: 110px
     }
+
+    html {
+        scroll-padding-top: 11px
+    }
 }
