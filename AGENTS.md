@@ -18,11 +18,15 @@ Dieses Repository wird von zwei Entwicklern gepflegt:
    Führe niemals automatisch folgende Operationen aus, ohne vorher zu fragen:
    - `git add` / Staging von Änderungen
    - `git commit`
-   - `git merge`
+   - `git merge` (lokales Zusammenführen von Branches)
+   - Das Mergen eines Pull Requests auf GitHub (Klick auf "Merge Pull Request")
+
+   `git push` und das Erstellen von Pull Requests sind hingegen automatisch erlaubt (ohne Nachfrage), solange dabei **nicht** direkt auf `main` gepusht wird.  
+   **Direkt auf `main` pushen darf ausschließlich Jörg.**
 
 2. **Code Review vor Merge auf `main`**  
    Bevor Manuel Änderungen auf den `main`-Branch mergen kann, **muss Jörg immer ein Code Review durchführen**.  
-   Die bevorzugte Methode ist ein **GitHub Pull Request**, über den die Diskussion und der Review stattfinden kann.
+   Die bevorzugte Methode ist ein **GitHub Pull Request**, über den die Diskussion und der Review stattfinden kann. Das eigentliche Mergen erfolgt über den Merge-Button des Pull Requests (auf GitHub oder in der PR-Extension) – nicht per lokalem `git merge`.
 
 ### Empfohlener Workflow:
 
@@ -31,7 +35,8 @@ Dieses Repository wird von zwei Entwicklern gepflegt:
 3. Branch pushen
 4. Pull Request auf GitHub erstellen
 5. Jörg führt Code Review durch
-6. Nach Genehmigung: Merge auf `main`
+6. Nach Genehmigung: Jörg mergt den Pull Request auf GitHub (Merge-Button)
+7. Lokal zu `main` wechseln und pullen, um die gemergten Änderungen zu erhalten
 
 ---
 
