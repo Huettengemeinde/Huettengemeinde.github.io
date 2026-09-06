@@ -35,4 +35,11 @@ Dieses Repository wird von zwei Entwicklern gepflegt:
 
 ---
 
+## Code-Konventionen
+
+- **Kein inline CSS**: Styles gehören immer in separate CSS-Dateien (z. B. `main.css`), nicht in `style`-Attribute oder `<style>`-Blöcke innerhalb von HTML-Dateien.
+- **Kein JavaScript**: Die Seite bleibt reines, statisches HTML. Auf JavaScript wird bewusst verzichtet.
+
+---
+
 *Diese Instructions helfen Copilot, den richtigen Workflow für dieses Repository zu befolgen.*
