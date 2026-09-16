@@ -29,6 +29,17 @@ a {
     color: inherit
 }
 
+/* Hyperlinks im Fließtext (nicht Header, Footer oder Buttons) */
+main p a {
+    color: #2f6b52;
+    font-weight: 700;
+    text-decoration: none
+}
+
+main p a:hover {
+    text-decoration: underline
+}
+
 .container {
     width: min(calc(100% - 40px), var(--max));
     margin: auto
