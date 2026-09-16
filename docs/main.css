@@ -528,6 +528,30 @@ footer {
     flex-wrap: wrap
 }
 
+
+/* Impressum */
+.legal-content article {
+    margin-bottom: 34px
+}
+
+.legal-content article:last-of-type {
+    margin-bottom: 0
+}
+
+.legal-content h3 {
+    font-size: 1.3rem;
+    margin: 0 0 10px
+}
+
+.legal-content p {
+    color: var(--muted);
+    margin: 0 0 12px
+}
+
+.legal-content p:last-child {
+    margin-bottom: 0
+}
+
 @media(max-width:1080px) and (min-width:901px) {
     .village-wrap {
         min-height: 1020px
