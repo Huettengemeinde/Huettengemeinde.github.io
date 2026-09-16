@@ -553,18 +553,31 @@ footer {
 }
 
 
-/* Impressum */
-.legal-content article {
-    margin-bottom: 34px
+/* Impressum & Datenschutz */
+.legal-content article,
+.legal-content > section {
+    margin-bottom: 34px;
+    padding: 0
 }
 
-.legal-content article:last-of-type {
+.legal-content article:last-of-type,
+.legal-content > section:last-of-type {
     margin-bottom: 0
+}
+
+.legal-content h2 {
+    font-size: 1.55rem;
+    margin: 0 0 14px
 }
 
 .legal-content h3 {
     font-size: 1.3rem;
     margin: 0 0 10px
+}
+
+.legal-content h4 {
+    font-size: 1.05rem;
+    margin: 20px 0 8px
 }
 
 .legal-content p {
@@ -573,6 +586,20 @@ footer {
 }
 
 .legal-content p:last-child {
+    margin-bottom: 0
+}
+
+.legal-content ul {
+    color: var(--muted);
+    margin: 0 0 12px;
+    padding-left: 22px
+}
+
+.legal-content li {
+    margin-bottom: 6px
+}
+
+.legal-content li:last-child {
     margin-bottom: 0
 }
 
