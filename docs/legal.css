@@ -2,9 +2,13 @@
 
 
 /* Impressum & Datenschutz */
+.legal .section-title {
+    margin-bottom: 40px
+}
+
 .legal-content article,
 .legal-content > section {
-    margin-bottom: 34px;
+    margin-bottom: 40px;
     padding: 0
 }
 
@@ -15,22 +19,22 @@
 
 .legal-content h2 {
     font-size: 1.55rem;
-    margin: 0 0 14px
+    margin: 0 0 16px
 }
 
 .legal-content h3 {
     font-size: 1.3rem;
-    margin: 0 0 10px
+    margin: 24px 0 8px
 }
 
 .legal-content h4 {
     font-size: 1.05rem;
-    margin: 20px 0 8px
+    margin: 24px 0 8px
 }
 
 .legal-content p {
     color: var(--muted);
-    margin: 0 0 12px
+    margin: 0 0 16px
 }
 
 .legal-content p:last-child {
@@ -39,12 +43,12 @@
 
 .legal-content ul {
     color: var(--muted);
-    margin: 0 0 12px;
+    margin: 0 0 16px;
     padding-left: 22px
 }
 
 .legal-content li {
-    margin-bottom: 6px
+    margin-bottom: 8px
 }
 
 .legal-content li:last-child {
@@ -53,11 +57,11 @@
 
 /* Seiten-Padding fuer Impressum/Datenschutz (ersetzt das generische section-Padding aus home.css) */
 .legal {
-    padding: 78px 0
+    padding: 48px 0
 }
 
 @media(max-width:700px) {
     .legal {
-        padding: 62px 0
+        padding: 32px 0
     }
 }
