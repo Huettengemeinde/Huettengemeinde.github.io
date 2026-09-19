@@ -2,20 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://huettengemeinde.de/</loc>
-    <lastmod>2026-08-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://huettengemeinde.de/impressum.html</loc>
-    <lastmod>2026-08-29</lastmod>
+    <loc>https://huettengemeinde.de/dna.html</loc>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://huettengemeinde.de/impressum.html</loc>
+    <lastmod>2026-09-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.1</priority>
   </url>
   <url>
     <loc>https://huettengemeinde.de/datenschutz.html</loc>
-    <lastmod>2026-08-29</lastmod>
+    <lastmod>2026-09-01</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.1</priority>
   </url>
 </urlset>
