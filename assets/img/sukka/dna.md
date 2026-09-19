@@ -4,11 +4,11 @@
 
 # Unsere Grundlage
 
-Wir glauben, dass die Bibel Gottes große Geschichte mit der Welt erzählt. Sie beginnt mit einem guten Schöpfer, berichtet vom Vertrauensbruch des Menschen, erzählt von Gottes Rettungsplan und findet ihren Höhepunkt in Jesus Christus. Diese Geschichte prägt unsere eigene Geschichte.
+Wir glauben, dass die Bibel Gottes große Geschichte mit der Welt erzählt. Sie beginnt mit einem guten Schöpfer, berichtet vom Vertrauensbruch des Menschen, erzählt von Gottes Rettungsplan, findet ihren Höhepunkt in Jesus Christus und mündet in die Hoffnung auf ein ewiges Leben. Diese Geschichte prägt unsere eigene Geschichte.
 
-Wir glauben, dass Jesus Christus Herr ist. Ihm gehört unser Leben, und seiner guten Autorität wollen wir uns anvertrauen. Nachfolge bedeutet für uns nicht, Wissen anzuhäufen oder Leistung zu bringen. Stattdessen wollen wir erleben lernen, wie unsere eigene Geschichte Teil von Gottes Geschichte wird.
+Wir glauben, dass Jesus Christus Herr ist. Ihm gehört unser Leben und seiner guten Autorität wollen wir uns anvertrauen. Wir wollen erleben lernen, wie unsere eigene Geschichte Teil von Gottes Geschichte wird. 
 
-Wir wissen, dass wir immer wieder scheitern werden. Wir brauchen Gottes Gnade. Wir kommen nicht als Menschen zusammen, die bereits am Ziel sind, sondern als Menschen, die lebenslang auf dem Weg in die Freiheit sind.
+In all dem wissen wir, dass wir immer wieder scheitern werden. Wir brauchen Gottes Gnade. Wir kommen nicht als Menschen zusammen, die bereits am Ziel sind, sondern als Menschen, die lebenslang auf dem Weg in die Freiheit sind.
 
 # Unser Selbstverständnis
 
