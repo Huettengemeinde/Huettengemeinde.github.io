@@ -31,7 +31,7 @@ a {
 
 /* Hyperlinks im Fließtext (nicht Header, Footer oder Buttons) */
 main p a {
-    color: #2f6b52;
+    color: var(--green);
     font-weight: 700;
     text-decoration: none
 }
