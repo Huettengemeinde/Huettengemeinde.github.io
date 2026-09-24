@@ -14,13 +14,15 @@ In all dem wissen wir, dass wir immer wieder scheitern werden. Wir brauchen Gott
 
 Wir sind eine christliche Gemeinschaft, die sich regelmäßig in Wohnzimmern trifft, um gemeinsam Jesus nachzufolgen. Das biblische Laubhüttenfest prägt unser Selbstverständnis. Deshalb nennen wir uns bewusst Hüttengemeinde.
 
-Eine Laubhütte erinnert daran, dass Gottes Volk in der Wüste unterwegs war und vollständig von Gottes Versorgung lebte. Sie ist beweglich, einfach und besitzt ein offenes Dach - symbolisch für den freien Blick zum Himmel. Dieses Bild beschreibt auch unseren Wunsch: Wir möchten mit leichtem Gepäck leben, uns nicht an äußere Sicherheiten klammern, sondern unsere Hoffnung ganz auf Gott setzen.
+Eine Laubhütte erinnert daran, dass Gottes Volk in der Wüste unterwegs war und vollständig von Gottes Versorgung lebte. Sie ist minimalistisch, beweglich und besitzt ein offenes Dach - symbolisch für den freien Blick zum Himmel. Dieses Bild beschreibt auch unseren Wunsch: Wir möchten mit leichtem Gepäck leben, uns nicht an äußere Sicherheiten klammern, sondern unsere Hoffnung ganz auf Gott setzen.
 
-Wir verstehen uns als geistliche Familie. Familie bedeutet für uns nicht Perfektion, sondern verbindliche Beziehungen, gegenseitige Annahme, Ermutigung, Korrektur und Verantwortung füreinander.
+Wir verstehen uns als geistliche Familie. Familie bedeutet für uns nicht Perfektion, sondern verbindliche Beziehungen, gegenseitige Annahme, Ermutigung und Verantwortung füreinander.
 
 # Unser Weg
 
-Wir möchten einen Raum schaffen, in dem Menschen ehrlich sein dürfen. Niemand muss eine Fassade aufrechterhalten oder so tun, als hätte er sein Leben immer im Griff. Wir alle stehen in einem Entwicklungsprozess. Gemeinsam wollen wir Jesus nachfolgen und uns von ihm formen lassen. Nachfolge bedeutet für uns, dass Gott unser Herz verändert, Verletzungen heilt und uns immer mehr in die Identität hineinführt, die er uns schenkt.
+Wir möchten einen Raum schaffen, in dem Menschen ehrlich sein dürfen. Niemand muss eine Fassade aufrechterhalten oder so tun, als hätte er sein Leben immer im Griff. Wir alle stehen in einem Entwicklungsprozess. Teil dieses Prozesses ist es, aus der Enge unserer Angst und Scham herauszutreten.
+
+Wir sind überzeugt davon, dass bei Gott eine wohltuende Weite ist und Luft zum Durchatmen. Jesus hat uns vorgelebt, wie diese Weite aussieht. Gemeinsam wollen wir ihm nachfolgen und uns von Gott formen lassen. Nachfolge bedeutet für uns, dass Gott unser Herz verändert, Verletzungen heilt und uns immer mehr in die Identität hineinführt, die er uns schenkt.
 
 ## Was wir Menschen zusprechen
 
