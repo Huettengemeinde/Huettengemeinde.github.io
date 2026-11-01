@@ -167,64 +167,72 @@ footer {
 }
 
 
-/* Impressum & Datenschutz */
-.legal .section-title {
+/* Inhalte der Unterseiten */
+main:not(.home-page) > section {
+    padding: 48px 0
+}
+
+main:not(.home-page) > section > .container > .section-title {
     margin-bottom: 40px
 }
 
-.legal-content article,
-.legal-content > section {
+main:not(.home-page) > section > .container > div > article,
+main:not(.home-page) > section > .container > div > section {
     margin-bottom: 40px;
     padding: 0
 }
 
-.legal-content article:last-of-type,
-.legal-content > section:last-of-type {
+main:not(.home-page) > section > .container > div > article:last-of-type,
+main:not(.home-page) > section > .container > div > section:last-of-type {
     margin-bottom: 0
 }
 
-.legal-content h2 {
+main:not(.home-page) > section > .container > div > article h2,
+main:not(.home-page) > section > .container > div > section h2 {
     font-size: 1.55rem;
     margin: 0 0 16px
 }
 
-.legal-content h3 {
+main:not(.home-page) > section > .container > div > article h3,
+main:not(.home-page) > section > .container > div > section h3 {
     font-size: 1.3rem;
     margin: 24px 0 8px
 }
 
-.legal-content h4 {
+main:not(.home-page) > section > .container > div > article h4,
+main:not(.home-page) > section > .container > div > section h4 {
     font-size: 1.05rem;
     font-weight: 600;
     color: var(--text);
     margin: 24px 0 8px
 }
 
-.legal-content p {
+main:not(.home-page) > section > .container > div > article p,
+main:not(.home-page) > section > .container > div > section p {
     color: var(--muted);
     margin: 0 0 16px
 }
 
-.legal-content p:last-child {
+main:not(.home-page) > section > .container > div > article p:last-child,
+main:not(.home-page) > section > .container > div > section p:last-child {
     margin-bottom: 0
 }
 
-.legal-content ul {
+main:not(.home-page) > section > .container > div > article ul,
+main:not(.home-page) > section > .container > div > section ul {
     color: var(--muted);
     margin: 0 0 16px;
     padding-left: 22px
 }
 
-.legal-content li {
+main:not(.home-page) > section > .container > div > article li,
+main:not(.home-page) > section > .container > div > section li {
     margin-bottom: 8px
 }
 
-.legal-content li:last-child {
+main:not(.home-page) > section > .container > div > article li:last-child,
+main:not(.home-page) > section > .container > div > section li:last-child {
     margin-bottom: 0
-}
-
-.legal {
-    padding: 48px 0
 }
 
 .dna-quote blockquote {
@@ -238,7 +246,7 @@ footer {
 }
 
 @media(max-width:700px) {
-    .legal {
+    main:not(.home-page) > section {
         padding: 32px 0
     }
 
