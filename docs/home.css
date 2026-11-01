@@ -28,6 +28,7 @@ h1 {
 /* Laubhüttenfest - Foto und Text als ein gemeinsames Poster */
 .festival-feature {
     padding: 0 0 92px;
+    scroll-margin-top: 78px;
 }
 
 .festival-poster {
@@ -489,6 +490,10 @@ section {
     }
 
 
+
+    .festival-feature {
+        scroll-margin-top: 62px;
+    }
 
     section {
         padding: 62px 0
