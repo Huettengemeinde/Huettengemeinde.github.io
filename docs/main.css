@@ -165,3 +165,92 @@ footer {
         scroll-padding-top: 11px
     }
 }
+
+
+/* Inhalte der Unterseiten */
+main:not(.home-page) > section {
+    padding: 48px 0
+}
+
+main:not(.home-page) > section > .container > .section-title {
+    margin-bottom: 40px
+}
+
+main:not(.home-page) > section > .container > div > article,
+main:not(.home-page) > section > .container > div > section {
+    margin-bottom: 40px;
+    padding: 0
+}
+
+main:not(.home-page) > section > .container > div > article:last-of-type,
+main:not(.home-page) > section > .container > div > section:last-of-type {
+    margin-bottom: 0
+}
+
+main:not(.home-page) > section > .container > div > article h2,
+main:not(.home-page) > section > .container > div > section h2 {
+    font-size: 1.55rem;
+    margin: 0 0 16px
+}
+
+main:not(.home-page) > section > .container > div > article h3,
+main:not(.home-page) > section > .container > div > section h3 {
+    font-size: 1.3rem;
+    margin: 24px 0 8px
+}
+
+main:not(.home-page) > section > .container > div > article h4,
+main:not(.home-page) > section > .container > div > section h4 {
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--text);
+    margin: 24px 0 8px
+}
+
+main:not(.home-page) > section > .container > div > article p,
+main:not(.home-page) > section > .container > div > section p {
+    color: var(--muted);
+    margin: 0 0 16px
+}
+
+main:not(.home-page) > section > .container > div > article p:last-child,
+main:not(.home-page) > section > .container > div > section p:last-child {
+    margin-bottom: 0
+}
+
+main:not(.home-page) > section > .container > div > article ul,
+main:not(.home-page) > section > .container > div > section ul {
+    color: var(--muted);
+    margin: 0 0 16px;
+    padding-left: 22px
+}
+
+main:not(.home-page) > section > .container > div > article li,
+main:not(.home-page) > section > .container > div > section li {
+    margin-bottom: 8px
+}
+
+main:not(.home-page) > section > .container > div > article li:last-child,
+main:not(.home-page) > section > .container > div > section li:last-child {
+    margin-bottom: 0
+}
+
+.dna-quote blockquote {
+    margin: 0;
+    padding: 24px 28px;
+    border-left: 4px solid var(--green);
+    background: var(--soft);
+    color: var(--text);
+    font-size: 1.15rem;
+    font-style: italic
+}
+
+@media(max-width:700px) {
+    main:not(.home-page) > section {
+        padding: 32px 0
+    }
+
+    .dna-quote blockquote {
+        padding: 20px 22px
+    }
+}
